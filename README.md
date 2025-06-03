@@ -86,4 +86,3 @@ Data Analyst | Python, SQL, Tableau | Data Science Certified (NIIT)
 This project is open-source and available under the MIT License.
 
 
-Would you like me to generate this `README.md` as a downloadable file so you can upload it to your GitHub repo directly? ​:contentReference[oaicite:0]{index=0}​
